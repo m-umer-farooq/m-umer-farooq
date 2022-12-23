@@ -1,6 +1,20 @@
 - 👋 Hi, I’m @m-umer-farooq
-- 👀 Have expertise in Full Stack Development, Back-End Development, Node.js, React.js, PHP, MYSQL, MongoDB, Laravel, Drupal, Magento, Codeigniter.
-- 💞️ I’m looking to collaborate on php related projects.
+
+
+- 👀 Expertise in 
+- Full Stack Development
+- Front-End Development HTML, CSS, JS, JQuery, Bootstrap, Responsive Design.
+- Back-End Development
+- Node.js 
+- React.js 
+- PHP 
+- MYSQL 
+- MongoDB 
+- Laravel 
+- Drupal 
+- Magento 
+- Codeigniter.
+
 - 📫 You can reach me at umer.pucit@gmail.com.
 
 <!---
