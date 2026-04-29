@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 I'm Muhammad Umer Farooq</h1>
 
 <p align="left">
-Principal Software Engineer from Pakistan 🇵🇰 with 18+ years of experience building scalable web applications, SaaS platforms, custom CMS solutions, and enterprise systems.
+Principal Software Engineer from Pakistan 🇵🇰 with 16+ years of experience building scalable web applications, SaaS platforms, custom CMS solutions, and enterprise systems.
 </p>
 
 ---
@@ -11,8 +11,9 @@ Principal Software Engineer from Pakistan 🇵🇰 with 18+ years of experience 
 <p align="left">
 ✨ Writing code & solving problems since 2008<br>
 💼 Specialized in PHP Ecosystem, Laravel, Drupal & Full Stack Development<br>
-⚡ Passionate about clean architecture, performance optimization & product development<br>
-🌱 Currently exploring AI-powered SaaS products & modern JavaScript stacks<br>
+⚡ Passionate about clean architecture, automation & product development<br>
+🤖 Exploring AI workflows, Prompt Engineering & Context Engineering<br>
+🌱 Working with modern stacks including React, Nuxt.js & automation tools<br>
 🎯 Focused on building real-world solutions that scale
 </p>
 
@@ -51,6 +52,9 @@ Principal Software Engineer from Pakistan 🇵🇰 with 18+ years of experience 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react" />
   <img width="10" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="42" alt="nuxtjs" />
+  <img width="10" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs" />
   <img width="10" />
 
@@ -62,6 +66,19 @@ Principal Software Engineer from Pakistan 🇵🇰 with 18+ years of experience 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="42" alt="jquery" />
 </div>
+
+---
+
+<h2 align="left">🤖 AI & Automation</h2>
+
+<p align="left">
+✔ Prompt Engineering<br>
+✔ Context Engineering<br>
+✔ AI Chatbot Development<br>
+✔ Workflow Automation with n8n<br>
+✔ Vibe Coding / AI-Assisted Development<br>
+✔ SaaS Product Prototyping
+</p>
 
 ---
 
