@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 I'm Muhammad Umer Farooq</h1>
 
 <p align="left">
-Principal Software Engineer from Pakistan 🇵🇰 with 18+ years of experience building scalable web applications, SaaS platforms, custom CMS solutions, and enterprise systems.
+Technical Lead from Pakistan 🇵🇰 with 18+ years of experience building scalable web applications, SaaS platforms, custom CMS solutions, and enterprise systems.
 </p>
 
 ---
